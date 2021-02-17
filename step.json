@@ -1,0 +1,15 @@
+{
+    "version": "0.15.4-rc.6",
+    "architecture": {
+        "64bit": {
+            "url": "http://github.com/smallstep/cli/releases/download/v0.15.4-rc.6/step_windows_0.15.4-rc.6_amd64.zip",
+            "bin": [
+                "step_0.15.4-rc.6/bin/step.exe"
+            ],
+            "hash": "caa6a6c8004f48f70bc861e5d43a4193c255173c5cf7859fac18ff7cdb0e16ea"
+        }
+    },
+    "homepage": "https://smallstep.com/",
+    "license": "Apache-2.0",
+    "description": "Crypto toolkit for working with X.509, OAuth, JWT, OATH OTP, etc."
+}
