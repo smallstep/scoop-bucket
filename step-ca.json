@@ -1,14 +1,14 @@
 {
-    "version": "0.16.0",
+    "version": "0.16.1",
     "architecture": {
         "64bit": {
-            "url": "http://github.com/smallstep/certificates/releases/download/v0.16.0/step-ca_windows_0.16.0_amd64.zip",
+            "url": "http://github.com/smallstep/certificates/releases/download/v0.16.1/step-ca_windows_0.16.1_amd64.zip",
             "bin": [
-                "step-ca_0.16.0/bin/step-ca.exe",
-                "step-ca_0.16.0/bin/step-cloudkms-init.exe",
-                "step-ca_0.16.0/bin/step-awskms-init.exe"
+                "step-ca_0.16.1/bin/step-ca.exe",
+                "step-ca_0.16.1/bin/step-cloudkms-init.exe",
+                "step-ca_0.16.1/bin/step-awskms-init.exe"
             ],
-            "hash": "f4214a4570e048814447ba43cf5c02a03a190a1578fa307258617e4b32dd56c3"
+            "hash": "a8739665c6786bbe4cea07db804c1888022618b89dc2dda1673027a740f24d41"
         }
     },
     "homepage": "https://smallstep.com/docs/step-ca",
