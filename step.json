@@ -1,12 +1,12 @@
 {
-    "version": "0.17.7",
+    "version": "0.18.0",
     "architecture": {
         "64bit": {
-            "url": "http://github.com/smallstep/cli/releases/download/v0.17.7/step_windows_0.17.7_amd64.zip",
+            "url": "http://github.com/smallstep/cli/releases/download/v0.18.0/step_windows_0.18.0_amd64.zip",
             "bin": [
-                "step_0.17.7/bin/step.exe"
+                "step_0.18.0/bin/step.exe"
             ],
-            "hash": "790a99f28b7d430ea801d0772e7c808e23de62f4c26c61d9715d7bce9be486fa"
+            "hash": "befff79460ed0ca7947ace29dea61bff7e661a904c2af48848afaf8859ff4151"
         }
     },
     "homepage": "https://smallstep.com/",
