@@ -1,12 +1,12 @@
 {
-    "version": "0.27.5",
+    "version": "0.28.0",
     "architecture": {
         "64bit": {
-            "url": "http://github.com/smallstep/certificates/releases/download/v0.27.5/step-ca_windows_0.27.5_amd64.zip",
+            "url": "http://github.com/smallstep/certificates/releases/download/v0.28.0/step-ca_windows_0.28.0_amd64.zip",
             "bin": [
                 "step-ca.exe"
             ],
-            "hash": "cc831322ed524d7b9acf71f6a17e37b5fc2effbeb220e263162b4fba98edd3e9"
+            "hash": "6ac62e48f58bc9d9a44713ba137f788de4daa29eccdfb5f3c2922953c4c6ea51"
         }
     },
     "homepage": "https://smallstep.com/docs/step-ca",
